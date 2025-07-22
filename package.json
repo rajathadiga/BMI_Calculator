@@ -1,0 +1,3 @@
+npm create vite@latest nutrition-assistant -- --template react
+cd nutrition-assistant
+npm install framer-motion
